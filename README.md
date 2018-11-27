@@ -1,2 +1,2 @@
 # SuperMario
-SuperMario in Java
+SuperMario using Java
